@@ -1,3 +1,6 @@
 # Sidekiq Testing Repository
 
-[sidekiq](https://github.com/mperham/sidekiq)
+To start [sidekiq](https://github.com/mperham/sidekiq) with config use:
+
+`bundle exec sidekiq -C config/sidekiq.yml`
+
