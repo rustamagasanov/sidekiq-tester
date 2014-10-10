@@ -1,7 +1,6 @@
-class HardWorker
+class RandomArticleWorker
   include Sidekiq::Worker
 
   def perform
-    # do something
   end
 end
