@@ -1,5 +1,3 @@
-require 'faker'
-
 class RandomArticleWorker
   include Sidekiq::Worker
 
