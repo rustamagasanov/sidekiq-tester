@@ -1,4 +1,4 @@
-# Sidekiq Testing Repository
+# Sidekiq/Sidekiq-cron Testing Repository
 
 To start [sidekiq](https://github.com/mperham/sidekiq) with config use:
 
